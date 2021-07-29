@@ -26,7 +26,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <section id="Step-1" onmouseleave="ShowObject('pop-up', 1);return false;">
     <div id="Step-1_Container">
         <div id="wb_button-1">
-            <a href="./quiz.html" rel="nofollow" onclick="yaCounter56430505.reachGoal('test'); return true;"><div id="button-1" class="butt-anim butt-bg"><div id="button-1_text"><span id="wb_uid0">СТАРТ&nbsp;</span></div></div></a></div>
+            <a href="./quiz.php" rel="nofollow" onclick="yaCounter56430505.reachGoal('test'); return true;"><div id="button-1" class="butt-anim butt-bg"><div id="button-1_text"><span id="wb_uid0">СТАРТ&nbsp;</span></div></div></a></div>
         <div id="wb_Text2">
             <span id="wb_uid1">Ответьте на 8 вопросов <strong>и получите в конце: </strong></span></div>
         <div id="wb_Text11" onclick="yaCounter56430505.reachGoal('telefon'); return true;return false;">
