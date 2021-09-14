@@ -66,7 +66,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div id="wb_Text21">
             <span id="wb_uid10">Пройдите тест </span><span id="wb_uid11">и рассчитайте<br>стоимость кровли</span><span id="wb_uid12"> под ваш<br>объект&nbsp; с точностью 97%</span></div>
         <div id="wb_Text20">
-            <span id="wb_uid13">Сделано с любовью в <a href="https://paradigma.website/" class="tel">Paradigma.website</a></span></div>
+            <span id="wb_uid13">Сделано с любовью в <a href="" class="tel"></a></span></div>
         <div id="wb_Text1">
             <span id="wb_uid14">Пройдите тест и </span><span id="wb_uid15">рассчитайте<br>стоимость кровли</span><span id="wb_uid16"> под ваш<br>объект&nbsp; с точностью 97%</span></div>
         <hr id="Line3">

@@ -24,7 +24,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WJQB6ZH"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
-   <form name="quiz" method="post" action="quiz.html" enctype="multipart/form-data" accept-charset="UTF-8" id="Layer1" onsubmit="yaCounter56430505.reachGoal('quiz')">
+   <form name="quiz" method="post" action="quiz.php" enctype="multipart/form-data" accept-charset="UTF-8" id="Layer1" onsubmit="yaCounter56430505.reachGoal('quiz')">
        <input type="hidden" name="tag" value="Квиз">
        <input type="hidden" name="dop" value="https://calculation.royalroof.by/quiz.php">
         <input type="hidden" name="tagi" value="Квиз">
@@ -41,7 +41,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          <div id="wb_Text22">
             <span id="wb_uid2">Калькулятор стоимости кровли</span></div>
          <div id="wb_Text106">
-            <span id="wb_uid3">Сделано с любовью в <a href="https://paradigma.website/" class="tel">Paradigma.website</a></span></div>
+            <span id="wb_uid3">Сделано с любовью в <a href="" class="tel"></a></span></div>
          <div id="step1">
             <div id="step1_Container">
                <div id="wb_Text8">
