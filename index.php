@@ -30,16 +30,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div id="wb_Text2">
             <span id="wb_uid1">Ответьте на 8 вопросов <strong>и получите в конце: </strong></span></div>
         <div id="wb_Text11" onclick="yaCounter56430505.reachGoal('telefon'); return true;return false;">
-            <a href="tel:+375297258595"><span id="wb_uid2"><a href="tel:+375296666737" class="tel">+375 (29) 6666-737</a></span></a></div>
+            <a href="tel:+375297258595"><span id="wb_uid2"><a href="tel:+375296666737" class="tel">+38 (067) 527-35-17</a></span></a></div>
         <div id="wb_Text3">
-            <span id="wb_uid3"><strong>Стоимость </strong>кровли в 3-х вариантах</span></div>
+            <span id="wb_uid3"><strong>Стоимость </strong>фасада в 3-х вариантах</span></div>
         <hr id="Line1">
         <div id="wb_Text7">
             <span id="wb_uid4">Контакты</span></div>
         <div id="wb_Image4">
             <img src="images/logo.png" id="Image4" alt=""></div>
         <div id="wb_Text8">
-            <span id="wb_uid5">Официальный дистрибьютор кровельных материалов в Минске и Беларуси</span></div>
+            <span id="wb_uid5">Официальный дистрибьютор систем утепления в Киеве и Украине</span></div>
         <div id="wb_Text12">
             <span id="wb_uid6">За 1 минуту</span></div>
         <div id="wb_Image5">
@@ -51,7 +51,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div id="wb_Image3">
             <img src="images/usd.png" id="Image3" alt=""></div>
         <div id="wb_Text4">
-            <span id="wb_uid7"><strong>PDF: </strong>Как можно экономить бюджет на кровлю</span></div>
+            <span id="wb_uid7"><strong>PDF: </strong>Как можно экономить бюджет на фасад</span></div>
         <div id="wb_Text5">
             <span id="wb_uid8"><strong>1 из 3 подарков </strong>на выбор</span></div>
         <div id="wb_Image6">
@@ -59,16 +59,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div id="wb_Image10">
             <img src="images/phone.png" id="Image10" alt=""></div>
         <div id="wb_Text6">
-            <span id="wb_uid9">Минcк,<strong> Кнорина 55-53</strong></span></div>
+            <span id="wb_uid9">Киев,<strong> Дружковская 12</strong></span></div>
         <div id="wb_Image11">
             <img src="images/map.png" id="Image11" alt=""></div>
         <hr id="Line2">
         <div id="wb_Text21">
-            <span id="wb_uid10">Пройдите тест </span><span id="wb_uid11">и рассчитайте<br>стоимость кровли</span><span id="wb_uid12"> под ваш<br>объект&nbsp; с точностью 97%</span></div>
+            <span id="wb_uid10">Пройдите тест </span><span id="wb_uid11">и рассчитайте<br>стоимость фасада</span><span id="wb_uid12"> под ваш<br>объект&nbsp; с точностью 97%</span></div>
         <div id="wb_Text20">
             <span id="wb_uid13">Сделано с любовью в <a href="" class="tel"></a></span></div>
         <div id="wb_Text1">
-            <span id="wb_uid14">Пройдите тест и </span><span id="wb_uid15">рассчитайте<br>стоимость кровли</span><span id="wb_uid16"> под ваш<br>объект&nbsp; с точностью 97%</span></div>
+            <span id="wb_uid14">Пройдите тест и </span><span id="wb_uid15">рассчитайте<br>стоимость фасада</span><span id="wb_uid16"> под ваш<br>объект&nbsp; с точностью 97%</span></div>
         <hr id="Line3">
         <div id="wb_Image8">
             <a href="./quiz.php" onclick="yaCounter56430505.reachGoal('test'); return true;"><img src="images/project.png" id="Image8" alt=""></a></div>
@@ -77,18 +77,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div id="wb_Image7">
             <a href="./quiz.php" onclick="yaCounter56430505.reachGoal('test'); return true;"><img src="images/calc.png" id="Image7" alt=""></a></div>
         <div id="wb_Shape1">
-            <a href="#" rel="nofollow" onclick="ShowObject('Layer4', 1);return false;"><div id="Shape1"><div id="Shape1_text"><span id="wb_uid18"><u>Скачать акционный прайс</u> на кровлю</span></div></div></a></div>
+            <a href="#" rel="nofollow" onclick="ShowObject('Layer4', 1);return false;"><div id="Shape1"><div id="Shape1_text"><span id="wb_uid18"><u>Скачать акционный прайс</u> на фасад</span></div></div></a></div>
         <div id="Layer1">
             <div id="wb_Image13">
                 <img src="images/logob.png" id="Image13" alt=""></div>
             <div id="wb_Image15">
                 <img src="images/za.png" id="Image15" alt=""></div>
             <div id="wb_Text10">
-                <span id="wb_uid19"><strong>РОЯЛРУФ - эксклюзивный представитель</strong> модульной металлочерепицы Budmat в РБ</span></div>
+                <span id="wb_uid19"><strong>Фасад Мастер - эксклюзивный представитель</strong> систем утепления Caparol, Baumit, Ceresit</span></div>
             <div id="wb_Text13">
-                <span id="wb_uid20"><strong>Лет успешно реализовываем кровельные</strong> материалы<br>в Беларуси</span></div>
+                <span id="wb_uid20"><strong>Лет успешно реализовываем фасадные</strong> материалы<br>в Украине</span></div>
             <div id="wb_Text14">
-                <span id="wb_uid21">9</span></div>
+                <span id="wb_uid21">12</span></div>
             <div id="wb_Image16">
                 <img src="images/satr2.png" id="Image16" alt=""></div>
             <div id="wb_Image17">
@@ -98,18 +98,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div id="wb_Image19">
                 <img src="images/roof.png" id="Image19" alt=""></div>
             <div id="wb_Text16">
-                <span id="wb_uid22">1000</span></div>
+                <span id="wb_uid22">30</span></div>
             <div id="wb_Text15">
-                <span id="wb_uid23"><strong>Крыш<br> </strong>реализовываем<br> за 1 год</span></div>
+                <span id="wb_uid23"><strong>Объектов<br> </strong>реализовываем<br> за 1 год</span></div>
             <div id="wb_Text17">
-                <span id="wb_uid24"><strong>45 человек в компании</strong> и выставочный шоу-рум в Минске</span></div>
+                <span id="wb_uid24"><strong>45 человек в компании</strong> и выставочный шоу-рум в Киеве</span></div>
             <div id="wb_Image14">
                 <img src="images/about.png" id="Image14" alt=""></div>
         </div>
         <div id="wb_Image20">
             <img src="images/line.png" id="Image20" alt=""></div>
         <div id="wb_Text18">
-            <span id="wb_uid25">Официальный дистрибьютор кровельных материалов в Минске и Беларуси</span></div>
+            <span id="wb_uid25">Официальный дистрибьютор систем утепления в Киеве и Украине</span></div>
         <div id="wb_Text19">
             <span id="wb_uid26">г. Минск 2019</span></div>
         <div id="wb_Image9">

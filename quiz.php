@@ -33,13 +33,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          <div id="wb_Image74">
             <img src="images/line.png" id="Image74" alt=""></div>
          <div id="wb_Text107">
-            <span id="wb_uid0">г. Минск 2019</span></div>
+            <span id="wb_uid0">г. Киев 2021</span></div>
          <div id="wb_FontAwesomeIcon1">
             <a href="./index.php"><div id="FontAwesomeIcon1"><i class="fa fa-times"></i></div></a></div>
          <div id="wb_Text105">
-            <span id="wb_uid1">Официальный дистрибьютор кровельных материалов в Минске и Беларуси</span></div>
+            <span id="wb_uid1">Официальный дистрибьютор систем утепления в Киеве и Украине</span></div>
          <div id="wb_Text22">
-            <span id="wb_uid2">Калькулятор стоимости кровли</span></div>
+            <span id="wb_uid2">Калькулятор стоимости фасада</span></div>
          <div id="wb_Text106">
             <span id="wb_uid3">Сделано с любовью в <a href="" class="tel"></a></span></div>
          <div id="step1">
@@ -53,31 +53,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                <div id="wb_Text9">
                   <label for="RadioButton6"><span id="wb_uid7">7 вопросов</span></label></div>
                <div id="wb_Text5">
-                  <label for="RadioButton6"><span id="wb_uid8">От формы кровли зависят доборные элементы, вид комплектующих, количество материалов на подрезку</span></label></div>
+                  <label for="RadioButton6"><span id="wb_uid8">От системы утепления зависят доборные элементы, вид комплектующих, количество материалов на просчет</span></label></div>
                <div id="wb_Text24">
-                  <span id="wb_uid9">Выберите тип Вашей крыши</span></div>
+                  <span id="wb_uid9">Выберите тип объекта</span></div>
                <div id="wb_RadioButton1">
-                  <input type="radio" id="RadioButton1" name="Выберите тип Вашей крыши" value="Односкатная"><label for="RadioButton1"></label></div>
+                  <input type="radio" id="RadioButton1" name="Выберите тип объекта" value="Частный дом"><label for="RadioButton1"></label></div>
                <div id="wb_Image23">
                   <label for="RadioButton1"><img src="images/1-1.png" id="Image23" alt=""></label></div>
                <div id="wb_RadioButton2">
-                  <input type="radio" id="RadioButton2" name="Выберите тип Вашей крыши" value="Двускатная"><label for="RadioButton2"></label></div>
+                  <input type="radio" id="RadioButton2" name="Выберите тип объекта" value="Дача"><label for="RadioButton2"></label></div>
                <div id="wb_Text26">
-                  <label for="RadioButton2"><span id="wb_uid10">Двускатная</span></label></div>
+                  <label for="RadioButton2"><span id="wb_uid10">Дача</span></label></div>
                <div id="wb_RadioButton3">
-                  <input type="radio" id="RadioButton3" name="Выберите тип Вашей крыши" value="Четырехскатная вальмовая"><label for="RadioButton3"></label></div>
+                  <input type="radio" id="RadioButton3" name="Выберите тип объекта" value="Коммерческая недвижимость"><label for="RadioButton3"></label></div>
                <div id="wb_Image24">
                   <label for="RadioButton3"><img src="images/1-3.png" id="Image24" alt=""></label></div>
                <div id="wb_Image25">
                   <label for="RadioButton4"><img src="images/1-5.png" id="Image25" alt=""></label></div>
                <div id="wb_RadioButton4">
-                  <input type="radio" id="RadioButton4" name="Выберите тип Вашей крыши" value="Мансардная ломаная"><label for="RadioButton4"></label></div>
+                  <input type="radio" id="RadioButton4" name="Выберите тип объекта" value="Многоэтажное домостроение"><label for="RadioButton4"></label></div>
                <div id="wb_Text28">
                   <label for="RadioButton4"><span id="wb_uid11">Четырехскатная шатровая</span></label></div>
                <div id="wb_Text25">
-                  <label for="RadioButton1"><span id="wb_uid12">Односкатная</span></label></div>
+                  <label for="RadioButton1"><span id="wb_uid12">Частный дом</span></label></div>
                <div id="wb_Text27">
-                  <label for="RadioButton3"><span id="wb_uid13">Четырехскатная вальмовая</span></label></div>
+                  <label for="RadioButton3"><span id="wb_uid13">Коммерческая недвижимость</span></label></div>
                <div id="wb_Image22">
                   <label for="RadioButton2"><img src="images/1-2.png" id="Image22" alt=""></label></div>
                <div id="wb_Shape2" onclick="yaCounter56430505.reachGoal('vopr1'); return true;">
@@ -95,13 +95,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                <div id="wb_Image3">
                   <label for="RadioButton5"><img src="images/1-4.png" id="Image3" alt=""></label></div>
                <div id="wb_RadioButton5">
-                  <input type="radio" id="RadioButton5" name="Выберите тип Вашей крыши" value="Четырехскатная шатровая"><label for="RadioButton5"></label></div>
+                  <input type="radio" id="RadioButton5" name="Выберите тип объекта" value="Четырехскатная шатровая"><label for="RadioButton5"></label></div>
                <div id="wb_Text3">
-                  <label for="RadioButton5"><span id="wb_uid18">Мансардная ломаная</span></label></div>
+                  <label for="RadioButton5"><span id="wb_uid18">Многоэтажное домостроение</span></label></div>
                <div id="wb_Image4">
                   <label for="RadioButton6"><img src="images/1-6.png" id="Image4" alt=""></label></div>
                <div id="wb_RadioButton6">
-                  <input type="radio" id="RadioButton6" name="Выберите тип Вашей крыши" value="Другая"><label for="RadioButton6"></label></div>
+                  <input type="radio" id="RadioButton6" name="Выберите тип объекта" value="Другая"><label for="RadioButton6"></label></div>
                <div id="wb_Text4">
                   <label for="RadioButton6"><span id="wb_uid19">Другая</span></label></div>
                <div id="wb_Image6">
@@ -128,7 +128,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                <div id="step3">
                   <div id="step3_Container">
                      <div id="wb_Text38">
-                        <span id="wb_uid21">Укажите ориентировочно площадь Вашей кровли или площадь дома</span></div>
+                        <span id="wb_uid21">Укажите ориентировочно площадь Вашего фасада</span></div>
                      <div id="wb_Shape5" onclick="yaCounter56430505.reachGoal('vopr3'); return true;">
                         <a href="#" rel="nofollow" onclick="ShowObject('step4', 1);AnimateCss('step4', 'animate-fade-in-right', 0, 1000);ShowObject('step3', 0);return false;"><div id="Shape5" class="butt-anim butt-bg"><div id="Shape5_text"><span id="wb_uid22">Далее</span></div></div></a></div>
                      <div id="wb_Text43">
@@ -144,15 +144,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      <div id="wb_Text46">
                         <label for="RadioButton18"><span id="wb_uid26">Площадь <strong>дома</strong></span></label></div>
                      <div id="wb_RadioButton18">
-                        <input type="radio" id="RadioButton18" name="Укажите ориентировочно площадь Вашей кровли или площадь" value="Площадь дома"><label for="RadioButton18"></label></div>
+                        <input type="radio" id="RadioButton18" name="Укажите ориентировочно площадь Вашего фасада или площадь" value="Площадь дома"><label for="RadioButton18"></label></div>
                      <div id="wb_Text47">
-                        <label for="RadioButton171111"><span id="wb_uid27">Площадь <strong>кровли</strong></span></label></div>
+                        <label for="RadioButton171111"><span id="wb_uid27">Площадь <strong>фасада</strong></span></label></div>
                      <div id="wb_Image34">
                         <img src="images/arrow.png" id="Image34" alt=""></div>
                      <div id="wb_Shape6">
                         <div id="Shape6" class="butt-anim butt-bg"><div id="Shape6_text"><span id="wb_uid28">Далее</span></div></div></div>
                      <div id="wb_Text48">
-                        <label for="RadioButton6"><span id="wb_uid29">Площадь кровли определяет объем работ и общую стоимость кровельного покрытия.</span></label></div>
+                        <label for="RadioButton6"><span id="wb_uid29">Площадь фасада определяет объем работ и общую стоимость системы утепления.</span></label></div>
                      <div id="wb_Text49">
                         <label for="RadioButton6"><span id="wb_uid30">Геннадий Цыбулько</span></label></div>
                      <div id="wb_Text50">
@@ -214,31 +214,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      <div id="wb_Text29">
                         <label for="RadioButton6"><span id="wb_uid41">Менеджер по продажам</span></label></div>
                      <div id="wb_Text20">
-                        <label for="RadioButton6"><span id="wb_uid42">От выбора кровельного материала зависят стоимость кровельного “пирога”, процесс и стоимость монтажа, вид комплектующих, сроки поставки и скидка.</span></label></div>
+                        <label for="RadioButton6"><span id="wb_uid42">От выбора системы утепления зависят стоимость фасадного “пирога”, процесс и стоимость монтажа, вид комплектующих, сроки поставки и скидка.</span></label></div>
                      <div id="wb_Text10">
                         <span id="wb_uid43">Выберите тип покрытия</span></div>
                      <div id="wb_RadioButton7">
-                        <input type="radio" id="RadioButton7" name="Выберите тип покрытия" value="Металлочерпица листовая"><label for="RadioButton7"></label></div>
+                        <input type="radio" id="RadioButton7" name="Выберите тип покрытия" value="Барашек"><label for="RadioButton7"></label></div>
                      <div id="wb_Image5">
                         <label for="RadioButton7"><img src="images/2-11.png" id="Image5" alt=""></label></div>
                      <div id="wb_RadioButton8">
-                        <input type="radio" id="RadioButton8" name="Выберите тип покрытия" value="Модульная металлочерепица"><label for="RadioButton8"></label></div>
+                        <input type="radio" id="RadioButton8" name="Выберите тип покрытия" value="Короед"><label for="RadioButton8"></label></div>
                      <div id="wb_Text11">
-                        <label for="RadioButton8"><span id="wb_uid44">Модульная металлочерепица</span></label></div>
+                        <label for="RadioButton8"><span id="wb_uid44">Короед</span></label></div>
                      <div id="wb_RadioButton9">
-                        <input type="radio" id="RadioButton9" name="Выберите тип покрытия" value="Керамическая черепица"><label for="RadioButton9"></label></div>
+                        <input type="radio" id="RadioButton9" name="Выберите тип покрытия" value="Стуктурная краска"><label for="RadioButton9"></label></div>
                      <div id="wb_Image7">
                         <label for="RadioButton9"><img src="images/2-3.png" id="Image7" alt=""></label></div>
                      <div id="wb_Image8">
                         <label for="RadioButton10"><img src="images/2-4.png" id="Image8" alt=""></label></div>
                      <div id="wb_RadioButton10">
-                        <input type="radio" id="RadioButton10" name="Выберите тип покрытия" value="Мягкая (битумная) черепица"><label for="RadioButton10"></label></div>
+                        <input type="radio" id="RadioButton10" name="Выберите тип покрытия" value="Эффект под кирпич"><label for="RadioButton10"></label></div>
                      <div id="wb_Text12">
-                        <label for="RadioButton10"><span id="wb_uid45">Мягкая (битумная) черепица</span></label></div>
+                        <label for="RadioButton10"><span id="wb_uid45">Эффект "под кирпич"</span></label></div>
                      <div id="wb_Text13">
-                        <label for="RadioButton7"><span id="wb_uid46">Металлочерепица листовая</span></label></div>
+                        <label for="RadioButton7"><span id="wb_uid46">Барашек</span></label></div>
                      <div id="wb_Text14">
-                        <label for="RadioButton9"><span id="wb_uid47">Керамическая черепица</span></label></div>
+                        <label for="RadioButton9"><span id="wb_uid47">Стуктурная краска</span></label></div>
                      <div id="wb_Image9">
                         <label for="RadioButton8"><img src="images/2-2.png" id="Image9" alt=""></label></div>
                      <div id="wb_Shape3" onclick="yaCounter56430505.reachGoal('vopr2'); return true;">
@@ -254,13 +254,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      <div id="wb_Image12">
                         <label for="RadioButton11"><img src="images/2-5.png" id="Image12" alt=""></label></div>
                      <div id="wb_Text18">
-                        <label for="RadioButton11"><span id="wb_uid52">Композитная черепица</span></label></div>
+                        <label for="RadioButton11"><span id="wb_uid52">Эффект "под натуральный камень"</span></label></div>
                      <div id="wb_Image13">
                         <label for="RadioButton12"><img src="images/2-6.png" id="Image13" alt=""></label></div>
                      <div id="wb_RadioButton12">
-                        <input type="radio" id="RadioButton12" name="Выберите тип покрытия" value="Цементно-песчаная черепица"><label for="RadioButton12"></label></div>
+                        <input type="radio" id="RadioButton12" name="Выберите тип покрытия" value="Эффект Гротто"><label for="RadioButton12"></label></div>
                      <div id="wb_Text19">
-                        <label for="RadioButton12"><span id="wb_uid53">Цементно-песчаная черепица</span></label></div>
+                        <label for="RadioButton12"><span id="wb_uid53">Эффект Гротто</span></label></div>
                      <div id="wb_Image14">
                         <img src="images/arrow.png" id="Image14" alt=""></div>
                      <div id="wb_Shape4">
@@ -297,7 +297,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      <div id="wb_Image11">
                         <img src="images/progress.png" id="Image11" alt=""></div>
                      <div id="wb_RadioButton11">
-                        <input type="radio" id="RadioButton11" name="Выберите тип покрытия" value="Композитная черепица"><label for="RadioButton11"></label></div>
+                        <input type="radio" id="RadioButton11" name="Выберите тип покрытия" value="Эффект под натуральный камень"><label for="RadioButton11"></label></div>
                   </div>
                </div>
                
@@ -327,31 +327,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      <div id="wb_Text29">
                         <label for="RadioButton6"><span id="wb_uid41">Менеджер по продажам</span></label></div>
                      <div id="wb_Text20">
-                        <label for="RadioButton6"><span id="wb_uid42">От выбора типа объекта мы сможем посчитать сколько примерно понадобиться дополнительных материалов для кровли.</span></label></div>
+                        <label for="RadioButton6"><span id="wb_uid42">От выбора системы утепления мы сможем посчитать сколько примерно понадобиться дополнительных материалов.</span></label></div>
                      <div id="wb_Text10">
-                        <span id="wb_uid43">Выберите Ваш объект</span></div>
+                        <span id="wb_uid43">Выберите систему утепления</span></div>
                      <div id="wb_RadioButton701">
-                        <input type="radio" id="RadioButton701" name="Тип объекта" value="Частный дом"><label for="RadioButton701"></label></div>
+                        <input type="radio" id="RadioButton701" name="Система утепления" value="Пенопласт 50мм"><label for="RadioButton701"></label></div>
                      <div id="wb_Image5">
                         <label for="RadioButton701"><img src="images/99-1.png" id="Image5" alt=""></label></div>
                      <div id="wb_RadioButton801">
-                        <input type="radio" id="RadioButton801" name="Тип объекта" value="Гостевой домик"><label for="RadioButton801"></label></div>
+                        <input type="radio" id="RadioButton801" name="Система утепления" value="Минвата 50мм"><label for="RadioButton801"></label></div>
                      <div id="wb_Text11">
-                        <label for="RadioButton801"><span id="wb_uid44">Гостевой домик</span></label></div>
+                        <label for="RadioButton801"><span id="wb_uid44">Минвата 50мм</span></label></div>
                      <div id="wb_RadioButton901">
-                        <input type="radio" id="RadioButton901" name="Тип объекта" value="Дача"><label for="RadioButton901"></label></div>
+                        <input type="radio" id="RadioButton901" name="Система утепления" value="Экструдер 50мм"><label for="RadioButton901"></label></div>
                      <div id="wb_Image7">
                         <label for="RadioButton901"><img src="images/4-99.png" id="Image7" alt=""></label></div>
                      <div id="wb_Image8">
                         <label for="RadioButton1001"><img src="images/5-99.png" id="Image8" alt=""></label></div>
                      <div id="wb_RadioButton10">
-                        <input type="radio" id="RadioButton1001" name="Тип объекта" value="Баня"><label for="RadioButton1001"></label></div>
+                        <input type="radio" id="RadioButton1001" name="Система утепления" value="Пенопласт 100мм"><label for="RadioButton1001"></label></div>
                      <div id="wb_Text12">
-                        <label for="RadioButton1001"><span id="wb_uid45">Баня</span></label></div>
+                        <label for="RadioButton1001"><span id="wb_uid45">Пенопласт 100мм</span></label></div>
                      <div id="wb_Text13">
-                        <label for="RadioButton701"><span id="wb_uid46">Частный дом</span></label></div>
+                        <label for="RadioButton701"><span id="wb_uid46">Пенопласт 50мм</span></label></div>
                      <div id="wb_Text14">
-                        <label for="RadioButton901"><span id="wb_uid47">Дача</span></label></div>
+                        <label for="RadioButton901"><span id="wb_uid47">Экструдер 50мм</span></label></div>
                      <div id="wb_Image9">
                         <label for="RadioButton801"><img src="images/99-2.png" id="Image9" alt=""></label></div>
                      <div id="wb_Shape301" onclick="yaCounter56430505.reachGoal('vopr2'); return true;">
@@ -367,13 +367,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      <div id="wb_Image12">
                         <label for="RadioButton1101"><img src="images/6-99.png" id="Image12" alt=""></label></div>
                      <div id="wb_Text18">
-                        <label for="RadioButton1101"><span id="wb_uid52">Хозблок/сарай</span></label></div>
+                        <label for="RadioButton1101"><span id="wb_uid52">Минвата 100мм</span></label></div>
                      <div id="wb_Image13">
                         <label for="RadioButton1201"><img src="images/99-3.png" id="Image13" alt=""></label></div>
                      <div id="wb_RadioButton1201">
-                        <input type="radio" id="RadioButton1201" name="Тип объекта" value="Карпорт/навес"><label for="RadioButton1201"></label></div>
+                        <input type="radio" id="RadioButton1201" name="Система утепления" value="Экструдер 100мм"><label for="RadioButton1201"></label></div>
                      <div id="wb_Text19">
-                        <label for="RadioButton1201"><span id="wb_uid53">Карпорт/навес</span></label></div>
+                        <label for="RadioButton1201"><span id="wb_uid53">Экструдер 100мм</span></label></div>
                      <div id="wb_Image14">
                         <img src="images/arrow.png" id="Image14" alt=""></div>
                      <div id="wb_Shape401">
@@ -386,7 +386,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      <div id="wb_Image11">
                         <img src="images/progress.png" id="Image11" alt=""></div>
                      <div id="wb_RadioButton11">
-                        <input type="radio" id="RadioButton1101" name="Тип объекта" value="Хозблок/сарай"><label for="RadioButton1101"></label></div>
+                        <input type="radio" id="RadioButton1101" name="Система утепления" value="Минвата 100мм"><label for="RadioButton1101"></label></div>
                   </div>
                </div>
                
@@ -419,9 +419,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      <div id="wb_Text65">
                         <label for="RadioButton6"><span id="wb_uid64">Менеджер по продажам</span></label></div>
                      <div id="wb_Text63">
-                        <label for="RadioButton6"><span id="wb_uid65">Наличие доборных элементов в расчете влияет на итоговую стоимость Вашей крыши</span></label></div>
+                        <label for="RadioButton6"><span id="wb_uid65">Наличие доборных элементов в расчете влияет на итоговую стоимость Вашего фасада</span></label></div>
                      <div id="wb_Text53">
-                        <span id="wb_uid66">Включаем в расчет доборные элементы кровли?</span></div>
+                        <span id="wb_uid66">Включаем в расчет доборные элементы фасада?</span></div>
                      <div id="wb_RadioButton13">
                         <input type="radio" id="RadioButton13" name="Что включаем в расчет?" value="Все в комплекте"><label for="RadioButton13"></label></div>
                      <div id="wb_Image28">
@@ -429,7 +429,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      <div id="wb_RadioButton14">
                         <input type="radio" id="RadioButton14" name="Что включаем в расчет?" value="Только кровлю"><label for="RadioButton14"></label></div>
                      <div id="wb_Text54">
-                        <label for="RadioButton14"><span id="wb_uid67">Посчитайте только стоимость черепицы</span></label></div>
+                        <label for="RadioButton14"><span id="wb_uid67">Посчитайте только стоимость "пирога"</span></label></div>
                      <div id="wb_Text56">
                         <label for="RadioButton13"><span id="wb_uid68">Да, мне важно знать полную стоимость</span></label></div>
                      <div id="wb_Image33">
@@ -457,21 +457,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      <div id="wb_Image49">
                         <img src="images/progress.png" id="Image49" alt=""></div>
                      <div id="wb_Text68">
-                        <label for="RadioButton6"><span id="wb_uid74">Такие как: Гидроизоляционные&nbsp; пленки, конек, ветровая планка, карнизная планка, ендова, саморезы, планки примыкания, водосточная система</span></label></div>
+                        <label for="RadioButton6"><span id="wb_uid74">Такие как: Обрамление окон, русты, декоративные элементы, саморезы, планки примыкания, водосточная система и т.д.</span></label></div>
                   </div>
                </div>
                <div id="step5">
                   <div id="step5_Container">
                      <div id="wb_RadioButton15">
-                        <input type="radio" id="RadioButton15" name="У Вас новое строительство или реконструкция?" value="Старая крыша (нужно " перекрыть")"=""><label for="RadioButton15"></label></div>
+                        <input type="radio" id="RadioButton15" name="У Вас новое строительство или реконструкция?" value="Новое строение (нужно  утеплить)"><label for="RadioButton15"></label></div>
                      <div id="wb_Image32">
                         <label for="RadioButton15"><img src="images/5-1.png" id="Image32" alt=""></label></div>
                      <div id="wb_RadioButton16">
-                        <input type="radio" id="RadioButton16" name="У Вас новое строительство или реконструкция?" value="Новая крыша (необходимо " накрыть")"=""><label for="RadioButton16"></label></div>
+                        <input type="radio" id="RadioButton16" name="У Вас новое строительство или реконструкция?" value="Реконструкция (необходимо  утеплить)"><label for="RadioButton16"></label></div>
                      <div id="wb_Text57">
-                        <label for="RadioButton16"><span id="wb_uid75">Новая крыша (необходимо <strong>&quot;накрыть&quot;</strong>)</span></label></div>
+                        <label for="RadioButton16"><span id="wb_uid75">Реконструкция (необходимо <strong>&quot;обновить&quot;</strong>)</span></label></div>
                      <div id="wb_Text61">
-                        <label for="RadioButton15"><span id="wb_uid76">Старая крыша (нужно<strong> &quot;перекрыть&quot;</strong>)</span></label></div>
+                        <label for="RadioButton15"><span id="wb_uid76">Новое строение (нужно<strong> &quot;утеплить&quot;</strong>)</span></label></div>
                      <div id="wb_Shape9" onclick="yaCounter56430505.reachGoal('vopr5'); return true;">
                         <a href="#" rel="nofollow" onclick="ShowObject('step6', 1);AnimateCss('step6', 'animate-fade-in-right', 0, 1000);ShowObject('step5', 0);return false;"><div id="Shape9" class="butt-anim butt-bg"><div id="Shape9_text"><span id="wb_uid77">Далее</span></div></div></a></div>
                      <div id="wb_Text62">
@@ -519,7 +519,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            <div id="wb_Text83">
                               <label for="RadioButton6"><span id="wb_uid90">Геннадий Цыбулько</span></label></div>
                            <div id="wb_Text82">
-                              <label for="RadioButton6"><span id="wb_uid91">Стоимость монтажа кровли как правило равна стоимости материала! Заказывая комплекс в одном месте, Вы получите скидку больше, чем приобретая все по отдельности.</span></label></div>
+                              <label for="RadioButton6"><span id="wb_uid91">Стоимость работ как правило равна стоимости материала! Заказывая комплекс в одном месте, Вы получите скидку больше, чем приобретая все по отдельности.</span></label></div>
                            <div id="wb_Text84">
                               <label for="RadioButton6"><span id="wb_uid92">Менеджер по продажам</span></label></div>
                            <div id="wb_RadioButton19">
@@ -531,7 +531,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            <div id="wb_Text77">
                               <label for="RadioButton20"><span id="wb_uid93">Нет, справлюсь <strong>своими силами</strong></span></label></div>
                            <div id="wb_Text78">
-                              <label for="RadioButton19"><span id="wb_uid94">Да, нужен<strong> монтаж</strong></span></label></div>
+                              <label for="RadioButton19"><span id="wb_uid94">Да, нужены<strong> работы</strong></span></label></div>
                            <div id="wb_Image51">
                               <label for="RadioButton20"><img src="images/6-2.png" id="Image51" alt=""></label></div>
                            <div id="wb_Shape11" onclick="yaCounter56430505.reachGoal('vopr6'); return true;">
@@ -561,7 +561,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            <div id="wb_Image59">
                               <img src="images/progress.png" id="Image59" alt=""></div>
                            <div id="wb_Text76">
-                              <span id="wb_uid100">Включаем ли мы в стоимость монтаж кровли?</span></div>
+                              <span id="wb_uid100">Включаем ли мы в стоимость работы?</span></div>
                         </div>
                      </div>
                   </div>
@@ -570,9 +570,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <div id="ok_Container">
                      <div id="Layer5">
                         <div id="wb_Text124">
-                           <label for="RadioButton6"><span id="wb_uid101">Мембрана</span></label></div>
+                           <label for="RadioButton6"><span id="wb_uid101"></span>Фасадная</label></div>
                         <div id="wb_Text125">
-                           <label for="RadioButton6"><span id="wb_uid102">Corotop Classic</span></label></div>
+                           <label for="RadioButton6"><span id="wb_uid102"></span>Сетка</label></div>
                         <div id="wb_Text126">
                            <label for="RadioButton6"><!--<span id="wb_uid103">Стоимость: <strong>640 руб</strong></span>--></label></div>
                         <div id="wb_Image90">
@@ -580,9 +580,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      </div>
                      <div id="Layer4">
                         <div id="wb_Text121">
-                           <label for="RadioButton6"><span id="wb_uid104">Флюгер Borge </span></label></div>
+                           <label for="RadioButton6"><span id="wb_uid104">Бесплатная тонировка </span></label></div>
                         <div id="wb_Text122">
-                           <label for="RadioButton6"><span id="wb_uid105">(на выбор)</span></label></div>
+                           <label for="RadioButton6"><span id="wb_uid105"></span></label></div>
                         <div id="wb_Text123">
                            <label for="RadioButton6"><!--<span id="wb_uid106">Стоимость: <strong>590 руб</strong></span>--></label></div>
                         <div id="wb_Image89">
@@ -592,9 +592,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div id="wb_Image88">
                            <img src="images/okno2.png" id="Image88" alt=""></div>
                         <div id="wb_Text118">
-                           <label for="RadioButton6"><span id="wb_uid107">Окно-люк</span></label></div>
+                           <label for="RadioButton6"><span id="wb_uid107">Скидка 10%</span></label></div>
                         <div id="wb_Text119">
-                           <label for="RadioButton6"><span id="wb_uid108">(выход на крышу)</span></label></div>
+                           <label for="RadioButton6"><span id="wb_uid108">(на работы)</span></label></div>
                         <div id="wb_Text120">
                            <label for="RadioButton6"><!--<span id="wb_uid109">Стоимость: <strong>890 руб</strong></span>--></label></div>
                      </div>
@@ -605,7 +605,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      <div id="wb_Shape15">
                         <a href="#" rel="nofollow"><div id="Shape15" class="butt-anim butt-bg"><div id="Shape15_text"><span id="wb_uid112">Получить расчёт + подарок</span></div></div></a></div>
                      <div id="wb_Text109">
-                        <span id="wb_uid113">Менеджер уже приступил к расчёту кровли</span></div>
+                        <span id="wb_uid113">Менеджер уже приступил к расчёту фасада</span></div>
                      <div id="wb_Text111">
                         <span id="wb_uid114">Готово на: </span></div>
                      <div id="wb_Text112">
@@ -674,7 +674,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      <div id="wb_Text87">
                         <span id="wb_uid122">Выберите Ваш подарок</span></div>
                      <div id="wb_RadioButton21">
-                        <input type="radio" id="RadioButton21" name="Выберите Ваш подарок за прохождение расчета" value="Мембрана Corotop Classic"><label for="RadioButton21"></label></div>
+                        <input type="radio" id="RadioButton21" name="Выберите Ваш подарок за прохождение расчета" value="Фасадная сетка Classic"><label for="RadioButton21"></label></div>
                      <div id="wb_Text90">
                         <span id="wb_uid123">Готово на: </span></div>
                      <div id="wb_Text91">
@@ -702,46 +702,46 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                      <div id="wb_Image70">
                         <label for="RadioButton22"><img src="images/7-2.png" id="Image70" alt=""></label></div>
                      <div id="wb_Text88">
-                        <label for="RadioButton22"><span id="wb_uid126"><strong>Флюгер Borge</strong> на выбор</span></label></div>
+                        <label for="RadioButton22"><span id="wb_uid126"><strong>Бесплатная тонировка</strong> в акционные тона</span></label></div>
                      <div id="wb_RadioButton22">
-                        <input type="radio" id="RadioButton22" name="Выберите Ваш подарок за прохождение расчета" value="Флюгер Borge на выбор"><label for="RadioButton22"></label></div>
+                        <input type="radio" id="RadioButton22" name="Выберите Ваш подарок за прохождение расчета" value="Бесплатная тонировка"><label for="RadioButton22"></label></div>
                      <div id="wb_Image71">
                         <label for="RadioButton23"><img src="images/6-3.png" id="Image71" alt=""></label></div>
                      <div id="wb_Text93">
-                        <label for="RadioButton23"><span id="wb_uid127"><strong>Окно-люк</strong> <br>(выход на крышу)<br>для холодных кровель</span></label></div>
+                        <label for="RadioButton23"><span id="wb_uid127"><strong>Скидка 10%</strong> <br>(на работы)<br></span></label></div>
                      <div id="wb_RadioButton23">
-                        <input type="radio" id="RadioButton23" name="Выберите Ваш подарок за прохождение расчета" value="Окно-люк"><label for="RadioButton23"></label></div>
+                        <input type="radio" id="RadioButton23" name="Выберите Ваш подарок за прохождение расчета" value="Скидка на работы"><label for="RadioButton23"></label></div>
                      <div id="podarok3">
                         <div id="wb_Image72">
                            <img src="images/okno2.png" id="Image72" alt=""></div>
                         <div id="wb_Text96">
-                           <label for="RadioButton6"><span id="wb_uid128">Окно-люк</span></label></div>
+                           <label for="RadioButton6"><span id="wb_uid128">Скидка 10%</span></label></div>
                         <div id="wb_Text97">
-                           <label for="RadioButton6"><span id="wb_uid129">(выход на крышу)</span></label></div>
+                           <label for="RadioButton6"><span id="wb_uid129">(на работы)</span></label></div>
                         <div id="wb_Text98">
                            <label for="RadioButton6"><!--<span id="wb_uid130">Стоимость: <strong>890 руб</strong></span>--></label></div>
                      </div>
                      <div id="podarok1">
                         <div id="wb_Text103">
-                           <label for="RadioButton6"><span id="wb_uid131">Corotop Classic</span></label></div>
+                           <label for="RadioButton6"><span id="wb_uid131"></span></label></div>
                         <div id="wb_Text104">
                            <label for="RadioButton6"><!--<span id="wb_uid132">Стоимость: <strong>640 руб</strong></span>--></label></div>
                         <div id="wb_Image75">
                            <img src="images/1-11.png" id="Image75" alt=""></div>
                         <div id="wb_Text102">
-                           <label for="RadioButton6"><span id="wb_uid133">Мембрана</span></label></div>
+                           <label for="RadioButton6"><span id="wb_uid133"></span></label></div>
                      </div>
                      <div id="wb_Text89">
-                        <label for="RadioButton21"><span id="wb_uid134"><strong>Мембрана </strong>Corotop Classic</span></label></div>
+                        <label for="RadioButton21"><span id="wb_uid134"><strong>Фасадная Сетка</strong> </span></label></div>
                      <div id="podarok2">
                         <div id="wb_Text100">
-                           <label for="RadioButton6"><span id="wb_uid135">(на выбор)</span></label></div>
+                           <label for="RadioButton6"><span id="wb_uid135"></span></label></div>
                         <div id="wb_Text101">
                            <label for="RadioButton6"><!--<span id="wb_uid136">Стоимость: <strong>590 руб</strong></span>--></label></div>
                         <div id="wb_Image73">
                            <img src="images/22222.png" id="Image73" alt=""></div>
                         <div id="wb_Text99">
-                           <label for="RadioButton6"><span id="wb_uid137">Флюгер Borge </span></label></div>
+                           <label for="RadioButton6"><span id="wb_uid137">Бесплатная тонировка</span></label></div>
                      </div>
                      <!--<div id="wb_Text95">
                         <label for="RadioButton6"><span id="wb_uid138">За прохождение теста</span></label></div>-->
